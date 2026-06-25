@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kamran 👨‍💻</h1>
-<h3 align="center">MERN Stack Developer | Flutter Mobile Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 ---
 
@@ -89,11 +89,11 @@ A collection of mobile apps built with Flutter and Dart.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MKHOfficial&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKHOfficial&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
