@@ -73,7 +73,7 @@ A collection of mobile apps built with Flutter and Dart.
 
 - **Stack:** Flutter, Dart, SQLite
 
-> 💡 Replace `YOUR_USERNAME` and repo names above with your actual GitHub links.
+
 
 ---
 
